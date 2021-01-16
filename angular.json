@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "frontend2021"
+    }
+  },
+  "defaultProject": "frontend2021",
+  "cli": {
+    "analytics": false
+  }
 }
